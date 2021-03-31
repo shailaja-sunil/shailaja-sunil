@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailaja-sunil
+- 👋 Hi, I’m Shailaja
 - 👀 I’m interested in RPA
 - 🌱 I’m currently learning RPA
 - 💞️ I’m looking to collaborate on RPA, Cloud computing
